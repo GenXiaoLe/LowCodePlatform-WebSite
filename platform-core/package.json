@@ -1,0 +1,20 @@
+{
+  "name": "@platform/core",
+  "version": "1.0.0",
+  "description": "project-core",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "lyg",
+  "license": "ISC",
+  "dependencies": {
+    "@types/immutable": "^3.8.7",
+    "immutable": "^4.0.0-rc.14",
+    "ramda": "^0.27.1",
+    "rxjs": "^7.3.0"
+  },
+  "devDependencies": {
+    "typescript": "^4.3.5"
+  }
+}
