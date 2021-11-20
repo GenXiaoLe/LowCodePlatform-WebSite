@@ -1,6 +1,6 @@
-import { ComponentTypeE } from './enumType'
+import { ComponentTypeEnum } from './enumType'
 
-export interface ComponentNodeD {
+export interface ComponentNodes {
   componentName: String,
-  componentType: ComponentTypeE
+  componentType: ComponentTypeEnum
 } 

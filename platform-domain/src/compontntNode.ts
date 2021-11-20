@@ -1,12 +1,12 @@
 
-import { ComponentNodeD } from './domainType'
+import { ComponentNodes } from './domainType'
 
 export class ComponentNode {
   private componentName;
 
   private componentType;
 
-  constructor(componentJson: ComponentNodeD) {
+  constructor(componentJson: ComponentNodes) {
     this.componentName = componentJson.componentName;
     this.componentType = componentJson.componentType;
   }

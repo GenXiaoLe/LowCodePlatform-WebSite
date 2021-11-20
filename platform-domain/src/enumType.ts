@@ -1,5 +1,5 @@
-export enum ComponentTypeE {
+export enum ComponentTypeEnum {
   Button = 1,
   Layout = 2,
-  picture = 3
+  Picture = 3
 }

@@ -1,0 +1,16 @@
+.platform__container {
+  &--outside {
+    position: absolute;
+    left: 260px;
+    right: 220px;
+    background: #f2f2f2;
+    padding: 20px;
+    top: 0;
+    bottom: 0;
+  }
+  &--interior {
+    background: #fff;
+    height: 100%;
+    width: 100%
+  }
+}
