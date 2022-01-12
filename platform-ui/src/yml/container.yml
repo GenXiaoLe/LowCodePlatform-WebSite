@@ -1,0 +1,7 @@
+name: "container"
+title: "容器组件"
+props:
+  heigth: "100px"
+  border: "1px"
+  borderColor: "#f2f2f2"
+version: "1.0.0"
